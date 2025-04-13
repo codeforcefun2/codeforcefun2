@@ -2,8 +2,6 @@
 
 I'm a Computer Science student at the University of South Florida with a passion for building BlockChain, Cryptography, Secure Wallet Systems.
 
-Here are some details about me:
-
 ## Experiences
 
 - 🔭 Software Engineer Intern @ Datacurve: Market Maker System
