@@ -5,7 +5,7 @@ I'm a Computer Science student at the University of South Florida with a passion
 ## Experiences
 
 - 🔭 Software Engineer Intern @ Datacurve: Market Maker System
-- 🎴 Founder @ DFG: Seamless Wallet integration into Crypto Exchange
+- 🎴 Founder/Software Engineer @ DFG: Seamless Wallet integration into Crypto Exchange
 - 💬 Blockchain Research Assistant @ USF: Layer 2 scaling solution on 5 blockchain network
 - ⚡ Cryptography Research Engineer @ USF: Post-quantum cryptography system for Crypto Exchange
 
