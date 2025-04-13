@@ -16,4 +16,4 @@ I'm a Computer Science student at the University of South Florida with a passion
 
 ## Courseworks
 
-Software Engineer, Operating System, Cryptography Theory and Practice, Cryptographic Hardware and Embed Sys, Quantum Computing, Trading systems
+- Software Engineer, Operating System, Cryptography Theory and Practice, Cryptographic Hardware and Embed Sys, Quantum Computing, Trading systems
