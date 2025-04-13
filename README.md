@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**codeforcefun2/codeforcefun2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of South Florida with a passion for building BlockChain, Cryptography, Secure Wallet Systems.
 
-Here are some ideas to get you started:
+Here are some details about me:
 
-- 🔭 I’m currently working at Datacurve
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiences
+
+- 🔭 Software Engineer Intern @ Datacurve: Market Maker System
+- 🎴 Founder @ DFG: Seamless Wallet integration into Crypto Exchange
+- 💬 Blockchain Research Assistant @ USF: Layer 2 scaling solution on 5 blockchain network
+- ⚡ Cryptography Research Engineer @ USF: Post-quantum cryptography system for Crypto Exchange
+
+## Projects
+
+- Defi Analytics Platform @ Fintech Hackathon
+- Crypto Trading Bot @ Optiver Market Maker Competition
